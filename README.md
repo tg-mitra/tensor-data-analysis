@@ -1,6 +1,6 @@
 # tensor-data-analysis
 
-A small, self-contained TensorFlow project that trains a convolutional neural network to classify images from the CIFAR-10 dataset. Built as a reference implementation — clean data pipeline, reproducible training loop, and a saved model you can actually load and serve.
+A small, self-contained TensorFlow project that trains a convolutional neural network to classify images from the CIFAR-10 dataset. Built as a reference implementation — clean data pipeline, reproducible training loop, and a saved model you can actually load and serve
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.16-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-3.x-D00000?style=flat-square&logo=keras&logoColor=white)
