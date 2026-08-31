@@ -142,11 +142,11 @@ Covers the data pipeline shapes, the augmentation determinism under a fixed seed
 
 ## Roadmap
 
-- [ ] Swap the custom CNN for a fine-tuned EfficientNet baseline.
-- [ ] Mixed-precision training.
-- [ ] Export to TFLite for on-device inference.
-- [ ] TensorBoard callback wired into the training loop.
-- [ ] Dockerfile for reproducible runs.
+- [ ] Swap the custom CNN for a fine-tuned EfficientNet baseline
+- [ ] Mixed-precision training
+- [ ] Export to TFLite for on-device inference
+- [ ] TensorBoard callback wired into the training loop
+- [ ] Dockerfile for reproducible runs
 
 ---
 
