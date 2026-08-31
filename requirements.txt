@@ -1,0 +1,7 @@
+tensorflow==2.16.*
+keras==3.*
+numpy>=1.26
+pyyaml>=6.0
+matplotlib>=3.8
+scikit-learn>=1.4
+pytest>=8.0

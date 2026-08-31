@@ -1,0 +1,18 @@
+seed: 42
+
+data:
+  val_split: 0.1
+  augment: true
+
+train:
+  batch_size: 64
+  epochs: 50
+  learning_rate: 0.001
+  lr_final: 0.00001
+  dropout: 0.3
+  early_stopping_patience: 8
+  checkpoint_dir: artifacts
+
+model:
+  input_shape: [32, 32, 3]
+  num_classes: 10
