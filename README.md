@@ -113,6 +113,7 @@ Input (32, 32, 3)
 
 Global average pooling instead of a flatten-and-dense head keeps the parameter count down and, in practice here, generalises a little better.
 
+
 ---
 
 ## Results
