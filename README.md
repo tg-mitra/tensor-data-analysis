@@ -8,7 +8,7 @@ A small, self-contained TensorFlow project that trains a convolutional neural ne
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-> **Note:** This is a demonstration project. The metrics below are from an example run and are placeholders — regenerate them with `python -m src.evaluate` before quoting them anywhere.
+> **Note:** This is a demonstration project. The metrics below are from an example run and are placeholder — regenerate them with `python -m src.evaluate` before quoting them anywhere.
 
 ---
 
